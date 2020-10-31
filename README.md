@@ -34,6 +34,7 @@ A engineer passionate about Data Science :bar_chart:. I like automating things, 
 - Data Mining and Statistical Analysis
 - Cloud and Distributed Computing
 - Deep Learning
+- Database management
 - Telecom Domain
 - Software Development Life Cycle (SDLC)
 
