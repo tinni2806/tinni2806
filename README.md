@@ -29,9 +29,11 @@ A engineer passionate about Data Science :bar_chart:. I like automating things, 
 </p>
 
 ### Area of Expertise
-- Business Intelligence
 - Problem Solving
-- Data Analytics and Visualization;
+- Data Analytics and Visualization
+- Data Mining and Statistical Analysis
+- Cloud and Distributed Computing
+- Deep Learning
 - Telecom Domain
 - Software Development Life Cycle (SDLC)
 
