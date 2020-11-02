@@ -5,12 +5,13 @@ A engineer passionate about Data Science :bar_chart:. I like automating things, 
 
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+- 🌱 I’m currently working in the **Data and Network Analytics Divison** at **Amdocs**.clustering
+- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 🔭 I’m currently working on:
 	- Linear regression on Health data
-	- Twitter Sentimental Analysis using NLP and clustering
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
+	- Twitter Sentimental Analysis using NLP and 
 - 💬 Talk to me about Basketball, Dance anything that interests you.
-- 🌱 I’m currently working in the **Data and Network Analytics Divison** at **Amdocs**.
+
 
 ### My skills include
 
