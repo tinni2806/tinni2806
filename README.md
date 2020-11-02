@@ -10,7 +10,7 @@ A engineer passionate about Data Science :bar_chart:. I like automating things, 
 - 🔭 I’m currently working on:
 	- Linear regression on Health data
 	- Twitter Sentimental Analysis using NLP and clustering
-- 💬 Talk to me about Basketball, Dance anything that interests you.
+- 💬 Talk to me about Basketball, Robotics, anything that interests you.
 
 
 ### My skills include
