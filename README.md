@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="8px">, I'm [Vidisha!](https://tinni2806.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm [Vidisha!](https://tinni2806.github.io) 
 
 
 A engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate of 🚀Analytics , :cloud: Cloud computing, :robot: Machine Learning, :new: Innovation and Automation 
