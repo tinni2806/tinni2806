@@ -28,7 +28,7 @@ A engineer passionate about Data Science :bar_chart:. I like automating things, 
 	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 </p>
-
+![](https://komarev.com/ghpvc/?username=tinni2806&color=green)
 ### Area of Expertise
 - Problem Solving
 - Data Analytics and Visualization
