@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/agostaxyz/agostaxyz/blob/main/penguin.gif" width="60" height="50">, I'm [Vidisha!](https://tinni2806.github.io) 
+## Hey, I'm [Vidisha!](https://tinni2806.github.io) 
 
 A engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate of 🚀Analytics , :cloud: Cloud computing, :robot: Machine Learning, :new: Innovation and Automation 
 
